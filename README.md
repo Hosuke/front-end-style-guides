@@ -1,5 +1,4 @@
-Front-End Style Guides
-前端开发设计指南
+Front-End Style Guides 前端开发设计指南
 =================
 
 A collection of front-end style guides
